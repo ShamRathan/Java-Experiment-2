@@ -1,4 +1,4 @@
-# Java-Experiment-2
+# Java-Experiment-1
 
 # Compare Numbers
 
